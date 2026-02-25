@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c:*)",
+      "Bash(dir:*)",
+      "Bash(cmd /c:*)",
+      "Bash(python:*)",
+      "Bash(git init:*)",
+      "mcp__github__get_me",
+      "mcp__github__create_repository",
+      "Bash(git add:*)"
+    ]
+  }
+}
